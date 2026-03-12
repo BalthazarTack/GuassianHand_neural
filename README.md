@@ -1,6 +1,4 @@
-# GuassianHand: Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars (NeurIPS 2024)
-
-This is an official implementation of "[Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars](https://arxiv.org/pdf/2410.08840)".
+# Inspired from GuassianHand: Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars (NeurIPS 2024)
 
 <p> 
    <img src="https://github.com/XuanHuang0/GuassianHand/blob/main/assets/banner.png"/> 
